@@ -20,9 +20,9 @@
 ├── CMakeLists.txt          # CMake 构建配置文件
 ├── main.cpp                # 主程序入口
 ├── rtp.h                   # RTP 相关结构体和函数
+├── rtp.cpp                 # RTP 相关结构体和函数
 ├── utils.h                 # 辅助函数
-├── output.aac              # 示例 AAC 音频文件
-├── output.h264             # 示例 H.264 视频文件
+├── utils.cpp               # 辅助函数
 └── README.md               # 项目的 README 文件
 
 ```
